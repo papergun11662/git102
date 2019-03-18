@@ -1,4 +1,1 @@
 Hello Git
-
-I can get A in Computer
-programing
