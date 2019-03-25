@@ -1,3 +1,5 @@
 add new-1.txt in git103
 
 as secondary dev
+
+user2 change info in new-1.txt
